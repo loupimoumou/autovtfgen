@@ -1,0 +1,1 @@
+py C:\Users\chmaz\Desktop\autovtrfcreator\pbr_merger.py
